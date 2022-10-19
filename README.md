@@ -1,11 +1,11 @@
 # About-Me
 
  - Estudante dos **Cursos Aluras**
- (Plano de Estudos) 
+ 
  
  [ x ]Lógica da Programação com Scratch 
  
- [ x ]Introdução a códigos JavaScript
+ [ x ]Introdução à códigos JavaScript
  
  [ x ]Curso de Hábitos e Produtividade
  
